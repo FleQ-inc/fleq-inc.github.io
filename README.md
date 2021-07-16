@@ -1,2 +1,21 @@
 # fleq-inc.github.io
-FleQ inc. Web Sites
+
+FleQ 株式会社のホームページを公開する GitHub Pages です。
+
+## 公開方法
+
+`main` リポジトリの `doc/` ディレクトリ以下を GitHub Pages として公開するように設定しています。
+
+
+## フォルダ構成
+
+```
+fleq-inc.github.io
+|-- README.md
+`-- doc
+    |-- css
+    |-- images
+    |-- js
+    |-- index.html
+    `-- privacy.html
+```
