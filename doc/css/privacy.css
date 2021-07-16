@@ -1,0 +1,30 @@
+ul.listdisc {
+    list-style-type: disc;
+	padding-left: 40px;
+	padding-bottom: 15px;
+}
+
+dl.list {
+	padding-left: 40px;
+	padding-bottom: 15px;
+}
+
+div.contents {
+    padding-top:100px;
+}
+
+.contents h2 {
+	clear: both;
+	margin-bottom: 20px;
+	font-size: 20px;
+	/*文字サイズ*/
+	background: #fff;
+	/*背景色*/
+	color: #000;
+	/*文字色*/
+	border-radius: 0px;
+	/*角丸のサイズ*/
+	padding: 5px 20px;
+	/*上下、左右への余白*/
+	border-bottom: solid 2px red;
+}
