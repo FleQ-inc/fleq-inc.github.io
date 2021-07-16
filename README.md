@@ -4,7 +4,7 @@ FleQ 株式会社のホームページを公開する GitHub Pages です。
 
 ## 公開方法
 
-`main` リポジトリの `doc/` ディレクトリ以下を GitHub Pages として公開するように設定しています。
+`main` リポジトリの `docs/` ディレクトリ以下を GitHub Pages として公開するように設定しています。
 
 
 ## フォルダ構成
@@ -12,7 +12,7 @@ FleQ 株式会社のホームページを公開する GitHub Pages です。
 ```
 fleq-inc.github.io
 |-- README.md
-`-- doc
+`-- docs
     |-- css
     |-- images
     |-- js
